@@ -9,3 +9,5 @@ export const GEO_API_URL = "https://wft-geo-db.p.rapidapi.com/v1/geo";
 
 export const WEATHER_API_URL = "https://api.openweathermap.org/data/2.5";
 export const WEATHER_API_KEY = "f68e5d2a3489633969c8b6e7ea749c79"; // enter your key from openweather API
+export const FETCH_DATA_FULFILLED = "FETCH_DATA_FULFILLED";
+export const FETCH_DATA_REJECTED = "FETCH_DATA_REJECTED";
